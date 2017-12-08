@@ -87,6 +87,9 @@
     ],
     "moduleDirectories": [
       "node_modules"
+    ],
+    "setupFiles": [
+      "raf/polyfill"
     ]
   }
 }
